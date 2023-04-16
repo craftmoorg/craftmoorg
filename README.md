@@ -1,6 +1,7 @@
 <br>
 <details>
     <summary>My certificates</summary>
+    <br>
     <table width="100%">
         <tr align="center">
             <td colspan="3" width="100%">
@@ -17,6 +18,22 @@
                 <a href="https://www.sololearn.com/Certificate/CT-YIT1UJ1E/pdf">
                     <img src="./assets/img/certificates/Sololearn_JavaScript.webp" alt="Sololearn" title="JavaScript"/>
                 </a>
+            </td>
+        </tr>
+    </table>
+    <table width="100%">
+        <tr align="center">
+            <td colspan="3" width="100%">
+                <a href="https://javascript.info">JavaScript.info</a>
+            </td>
+        </tr>
+        <tr>
+            <td width="50%">
+                <a href="https://learn.javascript.ru/courses/jspatterns-20230415/craftmoorg/en/certificate.jpg">
+                  <img src="./assets/img/certificates/JS_architecture_master-class.webp" alt="JavaScript.info" title="PHP"/>
+                </a>
+            </td>
+            <td width="50%">
             </td>
         </tr>
     </table>
