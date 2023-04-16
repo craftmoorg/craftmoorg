@@ -58,7 +58,7 @@
         <tr>
             <td width="50%">
                 <a href="https://gb.ru/certificates/1581272.en">
-                    <img src="./assets/img/certificates/GeekBrains_OOP.webp" alt="GeekBrains" title="Figma. Entry level"/>
+                    <img src="./assets/img/certificates/OOP.webp" alt="GeekBrains" title="Figma. Entry level"/>
                 </a>
             </td>
             <td width="50%"></td>
